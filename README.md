@@ -11,8 +11,7 @@ pip install numpy tensorflow ipython
 
 # How to Run
 1. Clone the repository:
-git clone https://github.com/your-username/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
+git clone https://github.com/sharian43/TiktacToe.git
 2. Open the Jupyter Notebook:
 jupyter notebook
 3. Or run the script directly:
